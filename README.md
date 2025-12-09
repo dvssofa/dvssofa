@@ -18,10 +18,6 @@ Go — синтаксис, горутины, веб-серверы
 
 ---
 
-## 📈 GitHub активность
-![Статистика](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
-
 ## 🌱 Сейчас изучаю 
 - Микросервисы на Go 
 - Основы Vue
