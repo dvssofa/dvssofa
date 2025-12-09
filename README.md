@@ -37,3 +37,5 @@ Email: sophia.dobrynina@yandex.ru
 
 **P.S.** Этот профиль растет и меняется вместе со мной.  
 Не стесняйтесь писать, если есть вопросы или предложения по сотрудничеству!
+
+https://github.com/dvssofa/dvssofa/blob/main/%D0%BA%D0%B0%D0%BF%D0%B8%D0%B1%D0%B0%D1%80%D0%B0.gif
